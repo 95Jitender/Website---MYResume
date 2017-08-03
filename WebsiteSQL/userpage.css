@@ -1,0 +1,26 @@
+#bt {margin-right:10px;
+	margin-top:3px;
+	padding:10px;}
+
+body { 
+  background: url(collage1.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+#para{
+	font-weight:bold;
+	font-size:15px;
+}
+#wrapperlogin{
+	padding-top:60px;
+}
+td {
+	padding:10px;
+	font-weight:bold;
+}
+tr {
+	border-bottom :1px solid black;
+}

@@ -1,0 +1,43 @@
+#bt {margin-right:10px;
+	margin-top:3px;
+	padding:10px;}
+
+body { 
+  background: url(collage1.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+#para{
+	font-weight:bold;
+	font-size:15px;
+}
+#wrapperlogin{
+	padding-top:80px;
+}
+table{
+		margin-left:30px;
+		margin-right:30px;
+	}
+th{
+	padding:20px;
+	text-align:center;
+	border:1px solid black;
+	font-size:15px;
+	background:#f5f5f0;
+	
+}
+td {
+	padding:10px;
+	font-weight:bold;
+	border:1px solid black;
+}
+
+tr:hover{
+	background:#f5f5f0;
+}
+#results{
+	margin-top:20px;
+}
